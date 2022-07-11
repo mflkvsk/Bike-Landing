@@ -1,9 +1,10 @@
 # Bike Landing Page
 This is a landing page for bikes manufacturer. [DEMO LINK](https://mflkvsk.github.io/Bike-Landing/)
+
 # Description
 This is an example of a basic landing page with using HTML & SASS(SCSS) preprocessor.
 
-# In this project you can see following technologies and approaches:
+### In this project you can see following technologies and approaches:
     -HTML
     -SCSS
     -Grid
